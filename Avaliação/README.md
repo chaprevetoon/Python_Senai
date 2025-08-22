@@ -50,8 +50,11 @@ Além das funcionalidades básicas de CRUD, o sistema realiza o cálculo automá
   ✅ Listagem de usuários em tabela interativa
 
 📦 Projeto_CRUD_IMC
+
  ┣ 📜 Atividade.py         # Código principal do sistema
+ 
  ┣ 📜 Banco_Avaliação.db   # Banco de dados SQLite3
+ 
  ┣ 📜 README.md            # Documentação do projeto
 
 🔢 Versões
